@@ -16,10 +16,7 @@ struct ToteApp: App {
         FirebaseApp.configure()
     }
     
-    // Subida de mac al beta
-    // subida solo a BETA
-    // esto se tiene que borrar de local
-    // Borrar de local pero accediendo a beta
+/** obtenido de la nube **/
     
     var body: some Scene {
         WindowGroup {
