@@ -16,7 +16,7 @@ struct ToteApp: App {
         FirebaseApp.configure()
     }
     
-/** obtenido de la nube **/
+/** obtenido de la nube solo desde BETA **/
     
     var body: some Scene {
         WindowGroup {
