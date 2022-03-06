@@ -18,6 +18,7 @@ struct ToteApp: App {
     
     // Subida de mac al beta
     // subida solo a BETA
+    // esto se tiene que borrar de local
     
     var body: some Scene {
         WindowGroup {
