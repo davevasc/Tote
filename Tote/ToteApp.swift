@@ -18,6 +18,8 @@ struct ToteApp: App {
     
 /** obtenido de la nube solo desde BETA. añadiendo BETA2. EDITADO EN LA NUBE **/
     
+    // Añadido desde la bune 030
+    
     var body: some Scene {
         WindowGroup {
             ListView()
