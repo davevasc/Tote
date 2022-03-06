@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>338675591762-ip2osph0jn7tn2ob7u6vbp7inith2mcj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.338675591762-ip2osph0jn7tn2ob7u6vbp7inith2mcj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCE5IyuzQKdkPL61OuFM_n3_Z19QqB5H4g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>338675591762</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.urdinbalea.tote.Tote</string>
+	<key>PROJECT_ID</key>
+	<string>tote-urdinbalea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tote-urdinbalea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:338675591762:ios:763b2e484bd5be82330d8b</string>
+</dict>
+</plist>
