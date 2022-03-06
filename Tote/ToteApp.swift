@@ -17,7 +17,7 @@ struct ToteApp: App {
         // esto se tiene que borrar tambien
     }
     
-    // Subida de mac al beta
+    // Subida de mac al beta 5
     // subida solo a BETA
     // esto se tiene que borrar de local
     // Borrar de local pero accediendo a beta
