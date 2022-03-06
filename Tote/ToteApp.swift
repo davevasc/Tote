@@ -17,6 +17,7 @@ struct ToteApp: App {
     }
     
     // Subida de mac al beta
+    // ESTO ESTA EDITADO EN MAC, PERO QUIERO QUE DESAPAREZCA COGIENDO DESDE LA NUBE
     
     var body: some Scene {
         WindowGroup {
